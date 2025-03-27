@@ -71,8 +71,45 @@ public class A21 {
 package luka_manvelishvili_1.quiz1.t2.spatula_sub;
 
 3
+package luka_manvelishvili_1.quiz1.t3;
 
+public class CoffeeShop {
+    int pricePerCoffee = 250; // tetri
+    int numCoffeeSold = 100;
+    int totalCostOfBeans = 15000; // tetri
+    int Tax = 50; // lari
+    int Water = 75; // tetri
+    int Gas = 159; // tetri
+    int Electricity = 148; // lari
+    int Parking = 51; // lari
+    int TotalExpenses;
 
+    int otherExpenses;
 
+    // TODO 1
+    // include all the expenses that are provided in the expenses.txt file
+    // file reading is not mandatory to implement programmatically, you can view the file yourself and hardcode the
+    // provided values in this java file.
 
+    double profit = calculateProfit(pricePerCoffee, numCoffeeSold, totalCostOfBeans, otherExpenses);
+
+    public static double calculateProfit(int pricePerCoffee, int numCoffeeSold, int totalCostOfBeans, int otherExpenses) {
+
+        double profitInLaris = 0;
+
+        // TODO 2
+        // Finish this function
+
+        return profitInLaris;
+    }
+
+}
+
+3^
+
+File reflect = new File("reflection.txt");
+1. challenges mainly included packaging problems which I think I did not properly do because I have included all the files in here as if they
+were one big chunk of code, which I know is untrue most likely, conceptually I understand what I should have done but I think I am lacking some
+actual practise to achieved all the problems well.
+2. I have mostly used chatGPT
 
