@@ -1,0 +1,78 @@
+1
+package luka_manvelishvili_1.quiz1.t1.wifi;
+
+public class A11 {
+}
+public class R11 {
+public static void main(string [MESSAGE = "heloo from the R12])
+}
+
+
+
+
+
+
+
+
+package luka_manvelishvili_1.quiz1.t1.audio;
+
+public class A12 {
+}
+public class R12 {
+string MESSAGE = "heloo from the R12";
+}
+
+2
+
+package luka_manvelishvili_1.quiz1.t2.spatula;
+import package luka_manvelishvili_1.quiz1.t2.spatula_sub;
+
+public class R21{
+public static void A21(string[ private int width = 23;
+    private int height = 37;
+
+    public int getWidth() {
+        return width;
+    }
+
+    public void setWidth(int width) {
+        this.width = width;
+    }
+
+    public int getHeight() {
+        return height;
+    }
+
+    public void setHeight(int height) {
+        this.height = height])
+    public static void A22[private int month = 7]
+}
+
+public class A21 {
+ private int width = 23;
+    private int height = 37;
+
+    public int getWidth() {
+        return width;
+    }
+
+    public void setWidth(int width) {
+        this.width = width;
+    }
+
+    public int getHeight() {
+        return height;
+    }
+
+    public void setHeight(int height) {
+        this.height = height;
+    }
+}
+package luka_manvelishvili_1.quiz1.t2.spatula_sub;
+
+3
+
+
+
+
+
